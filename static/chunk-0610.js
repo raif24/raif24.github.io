@@ -10,7 +10,7 @@ const PAYLOAD_DELIMITER = ';;'
 
 const configGlobal = {
   development: {
-    // restURL: "https://paymentsonline.a2hosted.com/token/rest",
+    // restURL: "https://paymentsonline.a2hosted.com/token3/rest",
     restURL: "http://localhost:5000/token/rest",
     originalURL: 'https://www.somewhere.com'
   },
